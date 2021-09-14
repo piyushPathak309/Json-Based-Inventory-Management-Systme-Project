@@ -1,3 +1,4 @@
+![download (1)](https://user-images.githubusercontent.com/84290070/133302311-05524144-ca75-45cf-b0ab-ce7fbbbd3dfc.png)
 # JSON-based-Inventory-Management-System
 
 ## Its the First Project given to us (as a interns) from ELITE TECHNO GROUPS(ETG) as part of Python Internship.
