@@ -1,11 +1,11 @@
 # JSON-based-Inventory-Management-System
 
-## Its the First Project given to us (as a interns) from ELITE TECHNO GROUPS as part of Python Internship.
+## Its the First Project given to us (as a interns) from ELITE TECHNO GROUPS(ETG) as part of Python Internship.
 
 
 
 ##  About the Repository?
-### This is an Inventory Management System Project which is created by using Python codes and JSON files. This system contains three notebook files & three json files. They are:
+### This is an Inventory Management System Project which is created by using Python codes and JSON files. This Project contains three ipynb(Interactive Python Notebook) files & three json files. They are:
 
 1. Adding & Deleting Items.ipynb- Here, the records are added to the dictionary & also can be deleted according to user's choice.
 2. Purchasing Items.ipynb- In this, the customer can purchase any number of items as per his/her choice.
